@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 # A script with file operators
 
 if [ -e "School" ]; then

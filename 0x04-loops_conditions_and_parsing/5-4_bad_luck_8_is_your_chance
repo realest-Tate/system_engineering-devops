@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 # A script of while loops with if,elif and  else statement
 
 i=1

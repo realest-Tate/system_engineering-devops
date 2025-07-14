@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 # A script that list file names in a directory in a line format
 
 filelist=$(ls)
