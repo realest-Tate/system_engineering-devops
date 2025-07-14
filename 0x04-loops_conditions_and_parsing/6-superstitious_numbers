@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 # A whille loop script with case statement
 
 i=1

@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 # A while loop script that prints Best school
 
 i=1

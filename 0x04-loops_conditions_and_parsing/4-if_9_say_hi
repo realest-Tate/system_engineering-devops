@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 # A script that combines while loop and if statement
 
 i=1
