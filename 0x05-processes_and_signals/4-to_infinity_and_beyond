@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# A script that loops endlessly
+# And sleep in between 
+
+a=0
+
+while [ $a -eq 0 ]; do
+   echo "To infinity and beyond"
+   sleep 2
+done

@@ -1,0 +1,4 @@
+#!/bin/env bash
+# A script that kills pid
+
+pgrep -f 7-highlander | xargs kill

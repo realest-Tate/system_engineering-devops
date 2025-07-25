@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# A command line that used to display bash pid
+
+ # shellcheck disable=SC2009
+ ps -axuf | grep bash
+ 
